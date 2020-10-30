@@ -21,7 +21,7 @@ We provide pytorch implementation for sRender.
 * [sketch]()
 * [CelebAmaskHQ]()
 * [FFHQ]()  
-**binary**  
+**binary**
 * [sketch]()
 * [CelebAmaskHQ]()
 * [FFHQ]()  
