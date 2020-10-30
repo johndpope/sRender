@@ -18,21 +18,21 @@ We provide pytorch implementation for sRender.
 * you can modify **options/base_option** to specify **--dataroot**, then run train.py or test.py
 # Dataset
 ## gray  
-* [sketch]()
-* [CelebAmaskHQ]()
-* [FFHQ]()  
+* [charcoal](https://drive.google.com/drive/u/1/folders/1ZuRVlPwvtNtfkNIj-DIdi2kr-1kEcPhg?hl=zh-CN)
+* [CelebAmaskHQ](https://drive.google.com/drive/u/1/folders/1ZuRVlPwvtNtfkNIj-DIdi2kr-1kEcPhg?hl=zh-CN)
+* [FFHQ](https://drive.google.com/drive/u/1/folders/1ZuRVlPwvtNtfkNIj-DIdi2kr-1kEcPhg?hl=zh-CN)  
 ## binary 
-* [sketch]()
-* [CelebAmaskHQ]()
-* [FFHQ]()  
+* [croquis](https://drive.google.com/drive/u/1/folders/1VBUBdGWz324dhCu8LRFU5qB0PqXxNQIJ?hl=zh-CN)
+* [CelebAmaskHQ](https://drive.google.com/drive/u/1/folders/1VBUBdGWz324dhCu8LRFU5qB0PqXxNQIJ?hl=zh-CN)
+* [FFHQ](https://drive.google.com/drive/u/1/folders/1VBUBdGWz324dhCu8LRFU5qB0PqXxNQIJ?hl=zh-CN)  
 # Pretrain model
 ## charcoal_style
-* [pix2pixHD]()
-* [stroke]()  
+* [pix2pixHD](https://drive.google.com/drive/u/1/folders/1-nnnt4qy8PkKRUJfAcK_o7sED3Ab5zCf?hl=zh-CN)
+* [stroke](https://drive.google.com/drive/u/1/folders/1DHEe0QGcjAhwVHZ4qYafbSzCF_HoZ4n4?hl=zh-CN)  
 ## croquis_style
-* [pix2pix]()
-* [pix2pixHD]()
-* [stroke]()  
+* [pix2pix](https://drive.google.com/drive/u/1/folders/1NIgo8U8UO43MH3KKnqFUXDcWTze_RWG4?hl=zh-CN)
+* [pix2pixHD](https://drive.google.com/drive/u/1/folders/1NW6s5JKmnVIA-TX89QwB6ymjKXbDAmnL?hl=zh-CN)
+* [stroke](https://drive.google.com/drive/u/1/folders/1c0xoDCpNbagxPfJUUmp1T0WrCZn7rfsB?hl=zh-CN)  
 # Result
 Our synthesis result for **croquis** and **charcoal** style can be downloaded
 [Goole Drive](https://drive.google.com/drive/folders/1rDEe1GhBuoPUKDlj6kflfG1FTR6Xhu4u)
