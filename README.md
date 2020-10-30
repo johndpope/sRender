@@ -10,8 +10,15 @@ We provide pytorch implementation for sRender.
 (a)photo ; (b)line-drawings ; (c)systhesis sketch
 # Train and test
 * charcoal_style for systhesising charcoal style images,it contains pip2pixHD for model without stroke_loss and with stroke_loss correspodingly
-
+* croquis_style for systhesising croquis style images,it contains pix2pix,pix2pixHD and stroke
+* download dataset gray for charcol_style, binary for croquis_style
+* download pretrain model and put them in ./checkpoints for test
+* you can modify options/base_option to specify --dataroot, then run train.py or test.py
 # Dataset
+* gray
+* binary
 # Pretrain model
+* charcoal_style
+* croquis_style
 # Result
 Our synthesis result for croquis and charcoal style can be downloaded 
