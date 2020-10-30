@@ -5,7 +5,7 @@ We provide pytorch implementation for sRender.
 ![sketch2sketch](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/sketch2sketch.png)
 # Photo to Sketch result
 **left:** croquis style; **right:** charcoal style
-![photo2sketch]()
+![photo2sketch](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/photo2sketch.png)
 # Train and test
 # Dataset
 # Pretrain model
