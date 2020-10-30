@@ -15,7 +15,7 @@ We provide pytorch implementation for sRender.
 * download pretrain model and put them in **./checkpoints** for test
 * for model with stroke_loss,you should download [stroke_model](https://drive.google.com/drive/folders/1mvlSUN-A2RBzV27BZLvoc1OemwU9glwY) and specify model root in
 **./models/pix2pixHD_model** for **net_c.load_state_dict**
-* you can modify options/base_option to specify --dataroot, then run train.py or test.py
+* you can modify **options/base_option** to specify **--dataroot**, then run train.py or test.py
 # Dataset
 * gray
 * binary
