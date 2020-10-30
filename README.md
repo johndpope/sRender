@@ -20,19 +20,19 @@ We provide pytorch implementation for sRender.
 **gray**  
 * [sketch]()
 * [CelebAmaskHQ]()
-* [FFHQ]()
+* [FFHQ]()  
 **binary**  
 * [sketch]()
 * [CelebAmaskHQ]()
-* [FFHQ]()
+* [FFHQ]()  
 # Pretrain model
 **charcoal_style**  
 * [pix2pixHD]()
-* [stroke]()
+* [stroke]()  
 **croquis_style**  
 * [pix2pix]()
 * [pix2pixHD]()
-* [stroke]()
+* [stroke]()  
 # Result
 Our synthesis result for **croquis** and **charcoal** style can be downloaded
 [Goole Drive](https://drive.google.com/drive/folders/1rDEe1GhBuoPUKDlj6kflfG1FTR6Xhu4u)
