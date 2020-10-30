@@ -21,5 +21,5 @@ We provide pytorch implementation for sRender.
 * charcoal_style
 * croquis_style
 # Result
-Our synthesis result for croquis and charcoal style can be downloaded 
-![croquis_style](https://drive.google.com/drive/folders/1rDEe1GhBuoPUKDlj6kflfG1FTR6Xhu4u)
+Our synthesis result for croquis and charcoal style can be downloaded  
+[result](https://drive.google.com/drive/folders/1rDEe1GhBuoPUKDlj6kflfG1FTR6Xhu4u)
