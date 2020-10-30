@@ -17,22 +17,22 @@ We provide pytorch implementation for sRender.
 **./models/pix2pixHD_model** for **net_c.load_state_dict**
 * you can modify **options/base_option** to specify **--dataroot**, then run train.py or test.py
 # Dataset
-* gray  
-[sketch]()
-[CelebAmaskHQ]()
-[FFHQ]()
-* binary  
-[sketch]()
-[CelebAmaskHQ]()
-[FFHQ]()
+**gray**  
+* [sketch]()
+* [CelebAmaskHQ]()
+* [FFHQ]()
+**binary**  
+* [sketch]()
+* [CelebAmaskHQ]()
+* [FFHQ]()
 # Pretrain model
-* charcoal_style  
-[pix2pixHD]()
-[stroke]()
-* croquis_style  
-[pix2pix]()
-[pix2pixHD]()
-[stroke]()
+**charcoal_style**  
+* [pix2pixHD]()
+* [stroke]()
+**croquis_style**  
+* [pix2pix]()
+* [pix2pixHD]()
+* [stroke]()
 # Result
-Our synthesis result for croquis and charcoal style can be downloaded
+Our synthesis result for **croquis** and **charcoal** style can be downloaded
 [Goole Drive](https://drive.google.com/drive/folders/1rDEe1GhBuoPUKDlj6kflfG1FTR6Xhu4u)
