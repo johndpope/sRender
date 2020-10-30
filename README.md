@@ -11,7 +11,7 @@ We provide pytorch implementation for sRender.
 # Train and test
 * charcoal_style for systhesising charcoal style images,it contains pip2pixHD for model without stroke_loss and with stroke_loss correspodingly
 * croquis_style for systhesising croquis style images,it contains pix2pix,pix2pixHD and stroke
-* download dataset gray for charcol_style, binary for croquis_style
+* download dataset gray for **charcol_style**, binary for **croquis_style**
 * download pretrain model and put them in **./checkpoints** for test
 * for model with stroke_loss,you should download [stroke_model](https://drive.google.com/drive/folders/1mvlSUN-A2RBzV27BZLvoc1OemwU9glwY) and specify model root in
 **./models/pix2pixHD_model** for **net_c.load_state_dict**
