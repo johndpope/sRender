@@ -2,6 +2,7 @@
 We provide pytorch implementation for sRender.
 # Sketch to Sketch result 
 **left:** croquis style; **right:** charcoal style
+![sketch2sketch]
 # Photo to Sketch result
 **left:** croquis style; **right:** charcoal style
 # Train and test
