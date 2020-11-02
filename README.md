@@ -1,5 +1,6 @@
 # sRender
-We provide pytorch implementation for sRender.
+We provide pytorch implementation for sRender.  
+Paper"Bridging Unpaired Facial Photos And Sketches By Line-drawings"
 # Sketch to Sketch result 
 **left:** croquis style; **right:** charcoal style
 ![sketch2sketch](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/sketch2sketch.png)
