@@ -9,8 +9,8 @@ We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos 
 ![Generated sketches](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/photo2sketch.png)
 (a)Photos ; (b)Generated Line-drawings ; (c)Synthesized Sketches
 # Train and test
-* charcoal_style for systhesising charcoal style images,it contains sRender w/o Lstr for model without stroke_loss and sRender for model with stroke_loss correspodingly
-* croquis_style for systhesising croquis style images,it contains pix2pix,pix2pixHD and stroke
+* charcoal_style for systhesising charcoal style images,it contains **sRender w/o Lstr** for model without stroke_loss and **sRender** for model with stroke_loss correspodingly
+* croquis_style for systhesising croquis style images,it contains **sRenderPix2Pix**,**sRender w/o Lstr** and **sRender**
 * download dataset [gray](https://drive.google.com/drive/folders/1ZuRVlPwvtNtfkNIj-DIdi2kr-1kEcPhg?usp=sharing) for **charcol_style**, [binary](https://drive.google.com/drive/folders/1VBUBdGWz324dhCu8LRFU5qB0PqXxNQIJ?usp=sharing) for **croquis_style**
 * download pretrain model and put them in **./checkpoints** for test
 * for model with stroke_loss,you should download [stroke_model](https://drive.google.com/file/d/16gSERA3TbPVFyCvKGtNKtJrQaOsG8vmO/view?usp=sharing) and specify model root in
