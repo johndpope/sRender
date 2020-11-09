@@ -27,8 +27,8 @@ We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos 
 * [FFHQ](https://drive.google.com/file/d/1uJQ5JGttXLfwmpH5LH0yH3bgs2oT7kTa/view?usp=sharing)  
 # Pretrain model
 ## charcoal_style
-* [pix2pixHD](https://drive.google.com/drive/u/1/folders/1-nnnt4qy8PkKRUJfAcK_o7sED3Ab5zCf?hl=zh-CN)
-* [sRender w/o Lstr](https://drive.google.com/file/d/1tRNzj2WSwITltKNxusfizO868_bdZ6Zq/view?usp=sharing)  
+* [sRender w/o Lstr](https://drive.google.com/drive/u/1/folders/1-nnnt4qy8PkKRUJfAcK_o7sED3Ab5zCf?hl=zh-CN)
+* [sRender](https://drive.google.com/file/d/1tRNzj2WSwITltKNxusfizO868_bdZ6Zq/view?usp=sharing)  
 ## croquis_style
 * [sRenderPix2Pix](https://drive.google.com/file/d/1GIRcc8q-plIXKxSDEug4UMXacB35w0G5/view?usp=sharing)
 * [sRender w/o Lstr](https://drive.google.com/file/d/1JdVhJDVCcFQ1jtNfNy-Q05UL4IVqkqw3/view?usp=sharing)
