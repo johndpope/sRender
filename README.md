@@ -9,7 +9,7 @@ We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos 
 ![Generated sketches](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/photo2sketch.png)
 (a)Photos ; (b)Generated Line-drawings ; (c)Synthesized Sketches
 # Train and test
-* charcoal_style for systhesising charcoal style images,it contains pip2pixHD for model without stroke_loss and with stroke_loss correspodingly
+* charcoal_style for systhesising charcoal style images,it contains sRender w/o Lstr for model without stroke_loss and sRender for model with stroke_loss correspodingly
 * croquis_style for systhesising croquis style images,it contains pix2pix,pix2pixHD and stroke
 * download dataset [gray](https://drive.google.com/drive/folders/1ZuRVlPwvtNtfkNIj-DIdi2kr-1kEcPhg?usp=sharing) for **charcol_style**, [binary](https://drive.google.com/drive/folders/1VBUBdGWz324dhCu8LRFU5qB0PqXxNQIJ?usp=sharing) for **croquis_style**
 * download pretrain model and put them in **./checkpoints** for test
@@ -34,7 +34,7 @@ We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos 
 * [sRender w/o Lstr](https://drive.google.com/file/d/1JdVhJDVCcFQ1jtNfNy-Q05UL4IVqkqw3/view?usp=sharing)
 * [sRender](https://drive.google.com/file/d/1E7nqNeiC8I-FWYhtvcZHNdt0-7hWVF5g/view?usp=sharing)  
 # Result
-Our synthesis result for **croquis** and **charcoal** style can be downloaded
+* Our synthesis result for **croquis** and **charcoal** style can be downloaded
 [Goole Drive](https://drive.google.com/drive/folders/1rDEe1GhBuoPUKDlj6kflfG1FTR6Xhu4u?usp=sharing)
 # Acknowledgments
 * Our code is inspired by the [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD) repository.
