@@ -2,11 +2,11 @@
 We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos And Sketches By Line-drawings
 # Sketch to Sketch result 
 **left:** croquis style; **right:** charcoal style
-![sketch2sketch](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/sketch2sketch.png)
+![Reconstructed sketches](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/sketch2sketch.png)
 (a)Sketches  ; (b)Generated Line-drawings ; (c)Synthesized Sketches
 # Photo to Sketch result
 **left:** croquis style; **right:** charcoal style
-![photo2sketch](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/photo2sketch.png)
+![Generated sketches ](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/photo2sketch.png)
 (a)Photos ; (b)Generated Line-drawings ; (c)Synthesized Sketches
 # Train and test
 * charcoal_style for systhesising charcoal style images,it contains pip2pixHD for model without stroke_loss and with stroke_loss correspodingly
