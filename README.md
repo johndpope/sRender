@@ -28,11 +28,11 @@ We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos 
 # Pretrain model
 ## charcoal_style
 * [pix2pixHD](https://drive.google.com/drive/u/1/folders/1-nnnt4qy8PkKRUJfAcK_o7sED3Ab5zCf?hl=zh-CN)
-* [stroke](https://drive.google.com/file/d/1tRNzj2WSwITltKNxusfizO868_bdZ6Zq/view?usp=sharing)  
+* [sRender w/o Lstr](https://drive.google.com/file/d/1tRNzj2WSwITltKNxusfizO868_bdZ6Zq/view?usp=sharing)  
 ## croquis_style
-* [pix2pix](https://drive.google.com/file/d/1GIRcc8q-plIXKxSDEug4UMXacB35w0G5/view?usp=sharing)
-* [pix2pixHD](https://drive.google.com/file/d/1JdVhJDVCcFQ1jtNfNy-Q05UL4IVqkqw3/view?usp=sharing)
-* [stroke](https://drive.google.com/file/d/1E7nqNeiC8I-FWYhtvcZHNdt0-7hWVF5g/view?usp=sharing)  
+* [sRenderPix2Pix](https://drive.google.com/file/d/1GIRcc8q-plIXKxSDEug4UMXacB35w0G5/view?usp=sharing)
+* [sRender w/o Lstr](https://drive.google.com/file/d/1JdVhJDVCcFQ1jtNfNy-Q05UL4IVqkqw3/view?usp=sharing)
+* [sRender](https://drive.google.com/file/d/1E7nqNeiC8I-FWYhtvcZHNdt0-7hWVF5g/view?usp=sharing)  
 # Result
 Our synthesis result for **croquis** and **charcoal** style can be downloaded
 [Goole Drive](https://drive.google.com/drive/folders/1rDEe1GhBuoPUKDlj6kflfG1FTR6Xhu4u?usp=sharing)
