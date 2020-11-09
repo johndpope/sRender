@@ -36,3 +36,5 @@ We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos 
 # Result
 Our synthesis result for **croquis** and **charcoal** style can be downloaded
 [Goole Drive](https://drive.google.com/drive/folders/1rDEe1GhBuoPUKDlj6kflfG1FTR6Xhu4u?usp=sharing)
+# Acknowledgments
+* Our code is inspired by the [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD) repository.
