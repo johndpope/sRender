@@ -1,10 +1,10 @@
 # sRender
 We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos And Sketches By Line-drawings
-# Sketch to Sketch result 
+# Reconstructed sketches 
 **left:** croquis style; **right:** charcoal style
 ![Reconstructed sketches](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/sketch2sketch.png)
 (a)Sketches  ; (b)Generated Line-drawings ; (c)Synthesized Sketches
-# Photo to Sketch result
+# Generated sketches
 **left:** croquis style; **right:** charcoal style
 ![Generated sketches](https://github.com/an0nym0u5-hackerese/srender/blob/main/images/photo2sketch.png)
 (a)Photos ; (b)Generated Line-drawings ; (c)Synthesized Sketches
