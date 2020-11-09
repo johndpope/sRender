@@ -17,11 +17,11 @@ We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos 
 **./models/pix2pixHD_model** for **net_c.load_state_dict**
 * you can modify **options/base_option** to specify **--dataroot**, then run train.py or test.py
 # Dataset
-## gray  
+## gray for charcol_style from GooleDrive   
 * [charcoal](https://drive.google.com/file/d/18MAVm-u0l4Rfh4Ct6bZRG1cNbKwQMgMt/view?usp=sharing)
 * [CelebAmaskHQ](https://drive.google.com/file/d/16pOkZiaBrot9EeLvxBIqm_UTuI2GSjpA/view?usp=sharing)
 * [FFHQ](https://drive.google.com/file/d/1mC0Vzf6TLD-77vtkzmfmVf3ZZXRlyOVb/view?usp=sharing)  
-## binary 
+## binary for croquis_style from GooleDrive    
 * [croquis](https://drive.google.com/file/d/1EMzyVvJnYhmyBMnriymgfFd_WCaURfto/view?usp=sharing)
 * [CelebAmaskHQ](https://drive.google.com/file/d/1euiF1197sOEa6_dM6qE4tPMt0V42Vn-6/view?usp=sharing)
 * [FFHQ](https://drive.google.com/file/d/1uJQ5JGttXLfwmpH5LH0yH3bgs2oT7kTa/view?usp=sharing)  
