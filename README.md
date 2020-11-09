@@ -17,19 +17,19 @@ We provide pytorch implementation for sRender：Bridging Unpaired Facial Photos 
 **./models/pix2pixHD_model** for **net_c.load_state_dict**
 * you can modify **options/base_option** to specify **--dataroot**, then run train.py or test.py
 # Dataset
-## gray for charcol_style from GooleDrive   
+## gray line-drawings for charcol_style from GooleDrive   
 * [charcoal](https://drive.google.com/file/d/18MAVm-u0l4Rfh4Ct6bZRG1cNbKwQMgMt/view?usp=sharing)
 * [CelebAmaskHQ](https://drive.google.com/file/d/16pOkZiaBrot9EeLvxBIqm_UTuI2GSjpA/view?usp=sharing)
 * [FFHQ](https://drive.google.com/file/d/1mC0Vzf6TLD-77vtkzmfmVf3ZZXRlyOVb/view?usp=sharing)  
-## binary for croquis_style from GooleDrive    
+## binary line-drawings for croquis_style from GooleDrive    
 * [croquis](https://drive.google.com/file/d/1EMzyVvJnYhmyBMnriymgfFd_WCaURfto/view?usp=sharing)
 * [CelebAmaskHQ](https://drive.google.com/file/d/1euiF1197sOEa6_dM6qE4tPMt0V42Vn-6/view?usp=sharing)
 * [FFHQ](https://drive.google.com/file/d/1uJQ5JGttXLfwmpH5LH0yH3bgs2oT7kTa/view?usp=sharing)  
 # Pretrain model
-## charcoal_style
+## charcoal_style from GooleDrive   
 * [sRender w/o Lstr](https://drive.google.com/drive/u/1/folders/1-nnnt4qy8PkKRUJfAcK_o7sED3Ab5zCf?hl=zh-CN)
 * [sRender](https://drive.google.com/file/d/1tRNzj2WSwITltKNxusfizO868_bdZ6Zq/view?usp=sharing)  
-## croquis_style
+## croquis_style from GooleDrive   
 * [sRenderPix2Pix](https://drive.google.com/file/d/1GIRcc8q-plIXKxSDEug4UMXacB35w0G5/view?usp=sharing)
 * [sRender w/o Lstr](https://drive.google.com/file/d/1JdVhJDVCcFQ1jtNfNy-Q05UL4IVqkqw3/view?usp=sharing)
 * [sRender](https://drive.google.com/file/d/1E7nqNeiC8I-FWYhtvcZHNdt0-7hWVF5g/view?usp=sharing)  
